@@ -2,7 +2,12 @@
 
 <br>
 <h2>Description</h2>
-<br>
+![image](https://github.com/user-attachments/assets/46ad003d-fdca-4b24-be93-3d78a65412ab)
+![image](https://github.com/user-attachments/assets/994e21d3-7a38-4fcf-8756-4f76ffbf1139)
+![image](https://github.com/user-attachments/assets/16d6eead-51d1-4e94-b4e3-0ec2fc63dec7)
+
+
+
 <h4>This is a simple blog application built with React, providing CRUD (Create, Read, Update, Delete) functionalities for blog posts. The application utilizes JSON Web Tokens (JWT) for authentication, ensuring secure access to protected resources.</h4>
 <br><br>
 <h2>Features</h2>
@@ -11,6 +16,7 @@
 Post Creation: Users can create new blog posts with titles, content, and categories.</li><li>
 Post Listing: The application displays a list of all published blog posts.</li><li>
 Post Details: Users can view individual blog posts with their title, content, and author information.</li><li>
+
 Post Editing: Registered users can edit their own posts.</li><li>
 Post Deletion: Registered users can delete their own posts.</li><li>
 Category Filtering: Users can filter posts based on their category.</li>
