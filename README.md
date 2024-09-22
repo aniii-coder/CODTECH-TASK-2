@@ -2,9 +2,9 @@
 
 <br>
 <h2>Description</h2>
-<img src='https://github.com/user-attachments/assets/46ad003d-fdca-4b24-be93-3d78a65412ab)'><br>
-<img src='![image](https://github.com/user-attachments/assets/994e21d3-7a38-4fcf-8756-4f76ffbf1139)'><br>
-<img src='![image](https://github.com/user-attachments/assets/16d6eead-51d1-4e94-b4e3-0ec2fc63dec7)'><br>
+![image](https://github.com/user-attachments/assets/46ad003d-fdca-4b24-be93-3d78a65412ab)<br>
+![image](https://github.com/user-attachments/assets/994e21d3-7a38-4fcf-8756-4f76ffbf1139)<br>
+![image](https://github.com/user-attachments/assets/16d6eead-51d1-4e94-b4e3-0ec2fc63dec7)
 
 
 
