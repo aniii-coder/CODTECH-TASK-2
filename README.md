@@ -1,10 +1,30 @@
 <b>NAME: </b> ANIKET V. SINGH <br><b> COMAPNY: </b> CODTECH IT SOLUTIONS <br><b>PROJECT: </b> SIMPLE BLOG APPLICATION<br><b> DOMAIN: </b> FULL STACK WEB DEVELOPMENT <br><b>ID: </b> CT08DS7685 <br><b>DURATION: </b> AUGUST TO SEPTEMBER 2024
 
+
+
+
+
+
 <br>
 <h2>Description</h2>
-![image](https://github.com/user-attachments/assets/46ad003d-fdca-4b24-be93-3d78a65412ab)<br>
+
+
 ![image](https://github.com/user-attachments/assets/994e21d3-7a38-4fcf-8756-4f76ffbf1139)<br>
 ![image](https://github.com/user-attachments/assets/16d6eead-51d1-4e94-b4e3-0ec2fc63dec7)
+
+
+
+
+![image](https://github.com/user-attachments/assets/f2ce6dda-493c-448a-869b-ea96860e4045)
+
+
+
+
+![image](https://github.com/user-attachments/assets/5820c22c-d9f8-47aa-8ada-494adecb6d62)
+
+
+
+![image](https://github.com/user-attachments/assets/41253b22-d609-47a5-a9b6-49d9f86e82cc)
 
 
 
