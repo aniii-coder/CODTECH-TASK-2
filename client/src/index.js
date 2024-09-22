@@ -17,11 +17,12 @@ import Logout from './pages/Logout'
 import Register from './pages/Register'
 import Authors from './pages/Authors'
 import DeletePost from './pages/DeletePost';
+import UserProvider from './context/userContext';
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Layout/>,
+    element: <UserProvider><Layout /></UserProvider>,
     errorElement: <ErrorPage />,
     children: [
       {

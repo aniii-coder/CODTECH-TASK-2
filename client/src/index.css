@@ -234,6 +234,7 @@ ul{
 
 
 .postFooter{
+    position: relative;
     border: 0px solid black;
     display: flex;
     justify-content:space-between;
@@ -271,10 +272,12 @@ ul{
 .postAvatar{
     border: 0px solid black;
     height: 40px;
+    
     display: flex;
     /* width: 99%; */
 }
 .postAvatar img{
+    position: relative;
     border: 0px solid black;
     height: 30px;
 }
@@ -455,7 +458,8 @@ align-items: center;
 
 
 .formErrorpage,
-.profileError{
+.profileError,
+.crtFormError{
     border: 0px solid black;
     border-radius: 10px;
     width: 100%;
@@ -702,4 +706,71 @@ align-items: center;
     /* text-align: center; */
     margin-left: 5px;
     font-size: 20px;
+}
+
+
+/* ====================================createpost========================== */
+
+
+.createPost{
+    border: 0px solid black;
+    height: 85vh;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+
+
+}
+
+.crtPostContainer{
+    margin: 10px;
+    border: 0px solid black;
+}
+
+
+.crtPostForm{
+    border: 0px solid red;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.crtPostForm input {
+    width: 95%;
+    border: 1px solid gray;
+    height: 4vh;
+    border-radius: 10px;
+}
+
+.crtPostForm select {
+    width: 95%;
+    border: 1px solid gray;
+    height: 4vh;
+    border-radius: 10px;
+}
+
+.crtPostForm button,
+.profileDataForm button{
+    height: 4vh;
+    width: 20vw;
+    border-radius: 10px;
+    border: 1px solid gray;
+    transition: 0.5s;
+}
+
+.crtPostForm button:hover,
+.profileDataForm button:hover{
+    background-color: #2778FD;
+    color: white;
+}
+
+
+
+
+#imgLoader{
+    height: 10vh;
+    display: flex;
+    align-items: center;
 }
