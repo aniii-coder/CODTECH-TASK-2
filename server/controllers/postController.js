@@ -101,7 +101,6 @@ const getCatPosts = async (req, res, next) => {
 
 // =============get author post=============
 // POSTS:- api/posts/users/:id
-// unprotected
 
 const getUserPosts = async (req, res, next) => {
   try {
