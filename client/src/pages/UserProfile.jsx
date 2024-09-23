@@ -93,7 +93,7 @@ const UserProfile = () => {
             <div className="profileAvatar">
               <img
                 src={`${process.env.REACT_APP_ASSETS_URL}/uploads/${avatar}`}
-                alt=""
+                style={{height: '5vw'}}
               />
             </div>
             <form className="profileForm">

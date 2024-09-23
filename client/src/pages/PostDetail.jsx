@@ -2,7 +2,7 @@ import React, {useContext, useEffect, useState} from "react";
 import PostAuthor from "../components/PostAuthor";
 import { Link, useParams } from "react-router-dom";
 import { Button } from "@mui/material";
-import Thumbnail from "../mern-blog-assets/blog22.jpg";
+// import Thumbnail from "../mern-blog-assets/blog22.jpg";
 import Loader from '../components/Loader'
 // import { red } from "@mui/material/colors";
 import DeletePost from './DeletePost'
