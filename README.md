@@ -1,4 +1,4 @@
-<b>NAME: </b> ANIKET V. SINGH <br><b> COMAPNY: </b> CODTECH IT SOLUTIONS <br><b>PROJECT: </b> SIMPLE BLOG APPLICATION<br><b> DOMAIN: </b> FULL STACK WEB DEVELOPMENT <br><b>ID: </b> CT08DS7685 <br><b>DURATION: </b> AUGUST TO SEPTEMBER 2024
+<b>NAME: </b> ANIKET V. SINGH <br><b> COMAPNY: </b> CODTECH IT SOLUTIONS <br><b>PROJECT: </b> SIMPLE BLOG APPLICATION<br><b> DOMAIN: </b> FULL STACK WEB DEVELOPMENT <br><b>ID: </b> CT08DS7685 <br><b>DURATION: </b> AUGUST TO SEPTEMBER 2024<br><b>MENTOR: </b> Neela Santhosh Kumar
 
 
 
@@ -8,23 +8,17 @@
 <br>
 <h2>Description</h2>
 
-
-![image](https://github.com/user-attachments/assets/994e21d3-7a38-4fcf-8756-4f76ffbf1139)<br>
-![image](https://github.com/user-attachments/assets/16d6eead-51d1-4e94-b4e3-0ec2fc63dec7)
-
-
-
-
-![image](https://github.com/user-attachments/assets/f2ce6dda-493c-448a-869b-ea96860e4045)
+![image](https://github.com/user-attachments/assets/5c4f4773-488f-4adc-827d-bd6dc6c8a2b9)
+)<br>
+![image](https://github.com/user-attachments/assets/1947719a-92f5-4fcb-96c3-c7ac2180d596)
 
 
 
 
-![image](https://github.com/user-attachments/assets/5820c22c-d9f8-47aa-8ada-494adecb6d62)
+![image](https://github.com/user-attachments/assets/d22b1973-88f0-4018-a6c8-a66b37e715a0)
 
 
 
-![image](https://github.com/user-attachments/assets/41253b22-d609-47a5-a9b6-49d9f86e82cc)
 
 
 
