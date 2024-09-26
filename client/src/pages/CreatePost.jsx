@@ -110,7 +110,7 @@ const CreatePost = () => {
               POST_CATEGORIES.map(cat => <option key={cat}>{cat}</option>)
             }
           </select>
-            <ReactQuill modules={modules} formats={formats} value={description} onChange={setDescription} style={{height: '40vh'}}/>
+            <ReactQuill modules={modules} formats={formats} value={description} onChange={setDescription} style={{height: '40vh', width: '80vh'}}/>
             <input type="file"  onChange={e => setThumbnail(e.target.files[0])} accept="png, jpg, jpeg" style={{border: '1px solid white', marginLeft: '5px', padding: '5px', marginTop:'5vh'}}/>
             <button type="submit">Create</button>
         </form>

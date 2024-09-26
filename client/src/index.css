@@ -6,7 +6,7 @@ body{
     overflow-y: scroll;
     -ms-overflow-style: none;
     scrollbar-width: none;
-    
+    background-color: #36453B;
    
 }
 
@@ -35,10 +35,18 @@ body{
 }
 
 .container{
+    /* position: fixed; */
     width: 99vw;
     display: flex;
-    border: 0px solid black;
+    border: 10px solid #F5F9E9;
     justify-content: space-between;
+    background-color: #F5F9E9;
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: larger;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
     
 }
 
@@ -67,7 +75,7 @@ nav{
     height: 3.5rem;
     display: grid;
     place-items: center;
-    border: 0px solid black;
+    border: px solid black;
     backdrop-filter: blur(20px);
     
 }
@@ -88,7 +96,7 @@ footer{
     margin-top: 3rem;
     padding-top: 6rem;
     position: relative;
-    background-color: #0A0D1F;  
+    background-color: #C2C1A5;  
 }
 
 .footerCategories{
@@ -173,6 +181,7 @@ ul{
 /* ============================POSTS================================*/
 
 .postAlign{
+    margin-top: 30px;
    border: 0px solid purple;
     
 }
@@ -199,6 +208,7 @@ ul{
     width: 25%;
     border-radius: 7px;
     overflow: hidden;
+    background-color: #E0DDCF;
     
     transition: 0.5s;
      /* Firefox */
@@ -339,8 +349,17 @@ ul{
 }
 
 .postDetailContainer{
+    border-radius: 20px;
+    margin-top: 30px;
+    background-color: #E0DDCF;
     border: 0px solid black;
     width: 60%;
+    font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: larger;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+
 }
 
 .postDetailThumbnail{
@@ -404,6 +423,7 @@ align-items: center;
 
 
 #authorPostsContainer, #categoryPostsContainer{
+    
     border: 0px solid black;
     display: flex;
     justify-content: center;
@@ -497,6 +517,7 @@ align-items: center;
 
 
 .authorsContainer{
+    margin-top: 40px;
     border: 0px solid black;
     width: 50vw;
     display: flex;
@@ -535,6 +556,8 @@ align-items: center;
 }
 
 .authorsInfo p{
+    border-radius: 20px;
+    background-color: #E0DDCF;
     border: 0px solid pink;
     text-align: center;
     color: black;
@@ -642,6 +665,11 @@ align-items: center;
 /* =========================Dashborad=========================0 */
 
 
+.dashboard{ 
+    margin-top: 40px;
+    color: #E0DDCF;
+}
+
 .postArticle{
     border: 0px solid black;
     border-radius: 10px;
@@ -723,7 +751,15 @@ align-items: center;
 }
 
 .crtPostContainer{
-    margin: 10px;
+    margin-top: 50px;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    border-radius: 20px;
+    font-size: larger;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+    background-color: #E0DDCF;
+    
     border: 0px solid black;
 }
 

@@ -140,7 +140,7 @@ const EditPost = () => {
             formats={formats}
             value={description}
             onChange={setDescription}
-            style={{ height: "40vh" }}
+            style={{ height: "40vh", width: '80vh'}}
           />
           <input
             type="file"
